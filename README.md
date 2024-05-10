@@ -1,7 +1,7 @@
 # GenomeMetabolic
 Scripts used for the paper: "Mechanistic insights into plant community responses to environmental variables: genome size, cellular nutrient investments, and metabolic trade-offs"
 
-"Hersch-Green-Petosky_MetabolicCode.R" combines genome size data and metabolic traits for analyses. This data is analyzed in multiple ways; genome size is test for phylogenetic signal, and the data is examined for effect of genome size, lifeform, their interaction, and random effects of site and block nested within site on cellular nutrient content, and the effect of genome size, lifeform, their interaction, and random effects of site and block nested within site on stomata size and density. 
+"Hersch-Green-Petosky_MetabolicCode.R" - Code for phylogenetic signal and PGLMM analyses (Li et al., 2020) for data on genome size, tissue and cellular nutrient contents, stomatal attributes, metabolic traits, lifeforms (grasses and forbs or just forbs), and site environmental variables of MAT and MAP. LM analyses for grasses, which did not have a significant phylogenetic signal for genome size, was done in another statistical software. 
 
 The data used in this script can be found at:
 
