@@ -7,4 +7,8 @@ The data used in this script can be found at:
 
 Environmental Data Initiative (EDI)
 
+## SEM data and code
+All data and code for the SEM can be found in the [SEM](SEM) folder. The analysis code is
+in the [SEM/analysis](SEM/analysis) folder and data are in the [SEM/data](SEM/data) folder.
+
 DOI: PENDING
