@@ -176,7 +176,7 @@ new_tree$tip.label <- gsub(" ", "_", new_tree$tip.label) # Replaces white space 
 library(phytools) # measure phylo signal
 
 # IMPORT DATA HERE
-phydata <- read.csv("Hersch-Green and Petosky_metabolicMS_EDI.csv")
+phydata <- read.csv("Hersch-Green and Hass_metabolicMS_EDI.csv")
 
 
 # Rearrange the data so you have separate datasets for grasses and forbs
@@ -255,7 +255,7 @@ library(tidyverse)
 # This function gives you p-values for random effects and is easier to interpret.
 
 #Load in data
-bigdata <- read.csv("Hersch-Green and Petosky_metabolicMS_EDI.csv") 
+bigdata <- read.csv("Hersch-Green and Hass_metabolicMS_EDI.csv") 
 
 # Read in data for forb and grass trees
 forb_tree <- read.tree("Photosyn_forb_tree_4Dec2023.tre")
