@@ -6,9 +6,10 @@ Scripts used for the paper: "Mechanistic insights into plant community responses
 The data used in this script can be found at:
 
 Environmental Data Initiative (EDI)
+https://doi.org/10.6073/pasta/38efe6bf0fdd5f0f7f6c22ff46cde50d
 
 ## SEM data and code
 All data and code for the SEM can be found in the [SEM](SEM) folder. The analysis code is
 in the [SEM/analysis](SEM/analysis) folder and data are in the [SEM/data](SEM/data) folder.
 
-DOI: PENDING
+DOI: https://doi.org/10.1111/nph.20374
